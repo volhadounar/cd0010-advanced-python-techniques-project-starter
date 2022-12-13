@@ -1,0 +1,41 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@volhadounar 
+volhadounar
+/
+api_sp1_bot
+Public
+generated from yandex-praktikum/homework_bot
+Code
+Issues
+Pull requests
+3
+Actions
+Projects
+Wiki
+Security
+3
+Insights
+Settings
+api_sp1_bot/.gitignore
+@volhadounar
+volhadounar Initial commit
+Latest commit 61b4a42 on Sep 29, 2020
+ History
+ 1 contributor
+23 lines (18 sloc)  184 Bytes
+
+.git/*
+env/
+venv/
+.venv
+.venv/
+
+__pycache__/
+*.py[cod]
